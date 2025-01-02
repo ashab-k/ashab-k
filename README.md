@@ -42,57 +42,49 @@
 </p>
 <h3 align="center">Backend</h3>
 <p align="center">
-<a href="https://spring.io/" target="_blank"> 
-    <img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="spring Boot" /> 
+  <a href="https://nodejs.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /> 
   </a>
-  <a href="https://hibernate.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white" alt="hibernate " /> 
-    </a>
-  <a href="https://graphql.org" target="_blank">
-    <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" alt="graphql" />
+  <a href="https://www.docker.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> 
   </a>
-  <a href="https://kubernetes.io" target="_blank"> 
-    <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/>
+  <a href="https://graphql.org/" target="_blank">
+    <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
   </a>
-    <a href="https://kubernetes.io" target="_blank"> 
-    <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch" alt="kubernetes"/>
+  <a href="https://nginx.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" /> 
   </a>
 </p>
+
 <h3 align="center">Database</h3>
 <p align="center">
   <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
-      alt="mongodb"/> 
+    <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" 
+      alt="MongoDB" /> 
   </a> 
-  <a href="https://www.mysql.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
-      alt="mysql"/> 
+  <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" 
+      alt="MySQL" /> 
   </a>
-  <a href="https://redis.io" target="_blank"> 
-    <img src="https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"
-      alt="redis"/>
+  <a href="https://redis.io/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" 
+      alt="Redis" />
   </a>
-  <a href="https://cassandra.apache.org/_/index.html" target="_blank"> 
-    <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white"
-      alt="cassandra"/> 
+  <a href="https://www.postgresql.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" 
+      alt="PostgreSQL" /> 
   </a>
-</p>
-<h3 align="center">Cloud & Hosting:</h3>
-<p align="center">
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img  src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"/> 
+  <a href="https://www.prisma.io/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=prisma&logoColor=white" 
+      alt="Prisma" /> 
   </a>
-  <a href="https://cloud.google.com/" target="_blank">
-    <img  src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="google cloud"/> 
+  <a href="https://firebase.google.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" 
+      alt="Firebase" /> 
   </a>
 </p>
 <h3 align="center">Connect with me</h3>
 <div style="margin-top:10px" align="center">
-  <div>
-    <a  href="https://dev.to/ashab-k" target="_blank">
-      <img src="https://img.shields.io/badge/DEV.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white" alt="example"/>
-    </a>
-  </div>
   <div>
     <a href="https://leetcode.com/ashab_k_/" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="example"/>

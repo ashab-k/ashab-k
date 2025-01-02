@@ -3,8 +3,8 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/ashab-k?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/ashab-k?style=social)
 
-- 🌱 I'm currently learning GoLang ,AWS Cloud along with and kubernetes other tech.
-- 👯 I'm looking to collaborate on system designing and writing code for microservices. 
+- 🌱 I'm currently learning GoLang, AWS Cloud along with kubernetes and other tech.
+- 👯 I'm looking to collaborate on backend api and microservice development. 
 - 🤔 I'm looking for help with Kubernetes on cloud platforms, and gaining AWS proficiency.  
 - 💬 Ask me about Nextjs, (MongoDB) database, prismaORM and Web Design. 
 

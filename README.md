@@ -3,30 +3,41 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/ashab-k?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/ashab-k?style=social)
 
-- 🔭 I'm currently learning GoLang, Docker and Kubernetes
-- 🌱 I'm currently learning AWS Cloud along with K8s and other tech.
+- 🌱 I'm currently learning GoLang ,AWS Cloud along with and kubernetes other tech.
 - 👯 I'm looking to collaborate on system designing and writing code for microservices. 
 - 🤔 I'm looking for help with Kubernetes on cloud platforms, and gaining AWS proficiency.  
-- 💬 Ask me about J, SQL or NoSQL (MongoDB) database, System designing problems. 
+- 💬 Ask me about Nextjs, (MongoDB) database, prismaORM and Web Design. 
 
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
 <h3 align="center">Languages</h3>
 <p align="center">
+ <a href="https://www.typescriptlang.org/" target="_blank"> 
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" 
+       alt="TypeScript" /> 
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" 
+       alt="JavaScript" /> 
+</a>
+  <a href="https://go.dev/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" 
+      alt="Golang" /> 
+  </a>
   <a href="https://www.java.com" target="_blank"> 
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" 
-      alt="java"/> 
+      alt="Java" /> 
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"
-      alt="go-lang"/> 
+  <a href="https://www.python.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" 
+      alt="Python" /> 
   </a>
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
-      alt="PHP"/> 
+  <a href="https://isocpp.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" 
+      alt="C++" /> 
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
-      alt="python"/>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> 
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" 
+      alt="C" /> 
   </a>
 </p>
 <h3 align="center">Backend</h3>

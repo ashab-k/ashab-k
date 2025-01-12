@@ -101,10 +101,6 @@
 <a href="https://github.com/ashab-k/ashab-k">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashab-k&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Ashab%27s%20Github%20Stats" alt="Ashab's GitHub Stats" />
 </a>
-<br><br>
-<a href="https://github.com/ashab-k">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashab-k&theme=gruvbox&hide_border=true" alt="Ashab's GitHub Streak Stats"/>
-</a>
 
 <br/>
 ------

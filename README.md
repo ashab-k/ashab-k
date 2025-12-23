@@ -3,6 +3,10 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/ashab-k?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/ashab-k?style=social)
 
+- I do a bunch of things
+- Currently finding my way around low level development and Operating Systems
+- Working on a NES emulator (help me) 
+
 
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
 <h3 align="center">Languages</h3>

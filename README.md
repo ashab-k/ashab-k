@@ -88,7 +88,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashab-k&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Ashab%27s%20GitHub%20Stats" />
+  <<img src="https://github-readme-stats.vercel.app/api?username=ashab-k&show_icons=true&theme=gruvbox" />
+
 </p>
 
 <p align="center">

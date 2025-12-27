@@ -104,5 +104,6 @@
 
 <br/>
 ------
-[ashab-k](https://github.com/ashab-k)
-Last Edited on: 13/01/2025
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashab-k&layout=compact)
+

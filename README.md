@@ -88,8 +88,3 @@
 </p>
 
 
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/languages?username=ashab-k&theme=gruvbox" />
-</p>
-

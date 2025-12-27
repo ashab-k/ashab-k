@@ -87,10 +87,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashab-k&theme=gruvbox" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashab-k&theme=gruvbox" />
-</p>
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/languages?username=ashab-k&theme=gruvbox" />
 </p>
+

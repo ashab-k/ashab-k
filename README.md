@@ -1,4 +1,4 @@
-## Hey there ... I am Ashab👋
+## Hey there, I am Ashab
 
 - I do a bunch of things
 - Currently finding my way around low level development and Operating Systems
